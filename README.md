@@ -2,9 +2,9 @@
 
 ## Sprot for CSC318: The Design of Interactive Computational Media
 Project Documents:
-* [🔗 Formative Studies](https://github.com/gnahzanit/resume_project_demos/files/13271668/A1_.Formative.Studies.pdf)
-* [🔗 Design Concepts and Prototypes](https://github.com/gnahzanit/resume_project_demos/files/13271671/A2_.Design.Concepts.and.Prototypes.pdf)
-* [🔗 Results](https://github.com/gnahzanit/resume_project_demos/files/13271672/A3.pdf)
+* [🔗 Formative Studies](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A1_.Formative.Studies.pdf)
+* [🔗 Design Concepts and Prototypes](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A2_.Design.Concepts.and.Prototypes.pdf)
+* [🔗 Results](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A3.pdf)
 
 Project Video:
 * [🔗 Google Drive](https://drive.google.com/file/d/13YlUO5ZmDePH3C12zm-smvmGgtnQ4yYD/view?usp=sharing)
