@@ -1,6 +1,6 @@
 # Repository of projects included on my Resume
 
-## Sprot for CSC318: The Design of Interactive Computational Media
+## Sprout for CSC318: The Design of Interactive Computational Media
 Project Documents:
 * [🔗 Formative Studies](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A1_.Formative.Studies.pdf)
 * [🔗 Design Concepts and Prototypes](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A2_.Design.Concepts.and.Prototypes.pdf)
