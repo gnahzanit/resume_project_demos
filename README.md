@@ -15,7 +15,6 @@ Onionshop is a drawing program that has a canvas which takes mouse or tablet inp
 
 ### Project Demos
 ![](https://github.com/gnahzanit/resume_project_demos/assets/69278622/9e445c78-786b-48ed-8c77-7c35d9833eff)
-![](https://github.com/gnahzanit/resume_project_demos/assets/69278622/5675bcde-317c-4223-adff-72c008115d54)
 
 ## Sprout, Women in STEM Design Project for The Design of Interactive Computational Media
 The Sprout project is created with recognition how 34% of STEM bachelor’s degree holders are women, yet they only make up 23% of Canadians working in science and technology. With that the STEM field becomes one that is highly-male dominated, with unsupportive, exclusionary, and isolating work environment to women and especially women of colour. As a result, women who enter these spaces are more likely to experience work place difficulties with little support, which may lead to their withdrawal from the STEM pursuit.
