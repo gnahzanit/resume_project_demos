@@ -14,7 +14,6 @@ Onionshop is a drawing program that has a canvas which takes mouse or tablet inp
 * [🔗 Project Repository](https://github.com/CSC207-UofT/course-project-onion#the-onionshop)
 
 ### Project Demos
-<img width="1000" alt="Screen Shot 2024-01-25 at 2 36 42 PM" src="https://github.com/gnahzanit/resume_project_demos/assets/69278622/024f7a5a-e6fc-4904-bc23-12db244a049f">
 ![](https://github.com/gnahzanit/resume_project_demos/assets/69278622/9e445c78-786b-48ed-8c77-7c35d9833eff)
 ![](https://github.com/gnahzanit/resume_project_demos/assets/69278622/5675bcde-317c-4223-adff-72c008115d54)
 
@@ -34,6 +33,7 @@ Project Documents:
 
 ### Project Demos
 Project Walkthrough:
+<img width="700" alt="Screen Shot 2024-01-25 at 2 36 42 PM" src="https://github.com/gnahzanit/resume_project_demos/assets/69278622/024f7a5a-e6fc-4904-bc23-12db244a049f">
 * [🔗 Project Walkthrough Video](https://drive.google.com/file/d/1lES5K8PlQXPHcxkmDB5bpK-ZjVtiThMO/view?usp=share_link)
 
 Project Presentation Video:
