@@ -33,6 +33,7 @@ Project Documents:
 
 ### Project Demos
 Project Walkthrough:
+
 <img width="700" alt="Screen Shot 2024-01-25 at 2 36 42 PM" src="https://github.com/gnahzanit/resume_project_demos/assets/69278622/024f7a5a-e6fc-4904-bc23-12db244a049f">
 * [🔗 Project Walkthrough Video](https://drive.google.com/file/d/1lES5K8PlQXPHcxkmDB5bpK-ZjVtiThMO/view?usp=share_link)
 
