@@ -29,16 +29,14 @@ Our team recognized the importance of creating spaces for women to form personal
 Project Documents:
 * [🔗 Formative Studies](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A1_.Formative.Studies.pdf)
 * [🔗 Design Concepts and Prototypes](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A2_.Design.Concepts.and.Prototypes.pdf)
-* [🔗 Results](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A3.pdf)
+* [🔗 Result Report](https://github.com/gnahzanit/resume_project_demos/blob/main/assets/A3.pdf)
+* [🔗 Project Presentation Video](https://drive.google.com/file/d/13YlUO5ZmDePH3C12zm-smvmGgtnQ4yYD/view?usp=sharing)
 
 ### Project Demos
-Project Walkthrough:
 
-<img width="700" alt="Screen Shot 2024-01-25 at 2 36 42 PM" src="https://github.com/gnahzanit/resume_project_demos/assets/69278622/024f7a5a-e6fc-4904-bc23-12db244a049f">
-* [🔗 Project Walkthrough Video](https://drive.google.com/file/d/1lES5K8PlQXPHcxkmDB5bpK-ZjVtiThMO/view?usp=share_link)
+<img width="600" alt="Screen Shot 2024-01-25 at 2 36 42 PM" src="https://github.com/gnahzanit/resume_project_demos/assets/69278622/024f7a5a-e6fc-4904-bc23-12db244a049f">
 
-Project Presentation Video:
-* [🔗 Google Drive](https://drive.google.com/file/d/13YlUO5ZmDePH3C12zm-smvmGgtnQ4yYD/view?usp=sharing)
+[🔗 Project Walkthrough Video](https://drive.google.com/file/d/1lES5K8PlQXPHcxkmDB5bpK-ZjVtiThMO/view?usp=share_link)
 
 ## Wikipedia Article Network: Computer Science Foundation 
 
