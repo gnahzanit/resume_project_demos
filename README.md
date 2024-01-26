@@ -1,6 +1,6 @@
 # Repository of projects included on my Resume
 
-## Scalar Art Application: Software Design
+## Scalar Art Application
 Onionshop is a drawing program that has a canvas which takes mouse or tablet input and outputs line strokes (drawing). Drawings can be saved to files with the extension .onion, and reopened later to continue editing.
 
 ### Contributions
@@ -16,7 +16,7 @@ Onionshop is a drawing program that has a canvas which takes mouse or tablet inp
 ### Project Demos
 ![](https://github.com/gnahzanit/resume_project_demos/assets/69278622/9e445c78-786b-48ed-8c77-7c35d9833eff)
 
-## Sprout, Women in STEM Design Project for The Design of Interactive Computational Media
+## Sprout, Women in STEM Design Project
 The Sprout project is created with recognition how 34% of STEM bachelor’s degree holders are women, yet they only make up 23% of Canadians working in science and technology. With that the STEM field becomes one that is highly-male dominated, with unsupportive, exclusionary, and isolating work environment to women and especially women of colour. As a result, women who enter these spaces are more likely to experience work place difficulties with little support, which may lead to their withdrawal from the STEM pursuit.
 
 Our team recognized the importance of creating spaces for women to form personal connections and receive mentor & mentee guidance, and how they can be significant in instilling confidence in women who wish to pursue STEM careers. Therefore, Spourt is created as an user centered design prototype in attempt to address these unique problems with the women in STEM experience.
@@ -37,7 +37,7 @@ Project Documents:
 
 [🔗 Project Walkthrough Video](https://drive.google.com/file/d/1lES5K8PlQXPHcxkmDB5bpK-ZjVtiThMO/view?usp=share_link)
 
-## Wikipedia Article Network: Computer Science Foundation 
+## Wikipedia Article Network 
 
 ### Contributions
 * Problem solved internet discontinuity issue during 40GB of data parsing by making process resume-able thereby completing the information stage of the project a week before the milestone deadline.
@@ -48,7 +48,7 @@ Project Documents:
 ### Links
 * [🔗 Project Specification and Repository](https://github.com/faizahsayyid/wikipedia-article-network#wikipedia-article-network)
 
-## Climate Change Twitter Map: Computer Science Foundation
+## Climate Change Twitter Map
 
 ### Contributions
 * Addressed and resolved back-end reset complications of twarc by making the data filtering process resume-able which lead the project to be able to meet all deadlines despite various internet issues.
